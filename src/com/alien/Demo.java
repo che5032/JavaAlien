@@ -34,6 +34,7 @@ public class Demo {
 		ArrayList<EnggStudent> list1=new ArrayList<>();
 		list1.add(new EnggStudent());
 		list1.add(new EnggStudent());
+		list1.add(new EnggStudent());
 		
 		ArrayList<ManageStudent> list2=new ArrayList<>();
 		list2.add(new ManageStudent());
