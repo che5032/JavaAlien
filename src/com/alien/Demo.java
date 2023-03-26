@@ -37,6 +37,7 @@ public class Demo {
 		
 		ArrayList<ManageStudent> list2=new ArrayList<>();
 		list2.add(new ManageStudent());
+		list2.add(new ManageStudent());
 		
 		printStudents(list1);
 		printStudents(list2);
